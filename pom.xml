@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.clojars.malcolmsparks</groupId>
   <artifactId>stevedore</artifactId>
-  <version>0.7.2</version>
+  <version>0.7.3</version>
   <packaging>jar</packaging>
   <name>stevedore</name>
   <description>
@@ -31,6 +31,9 @@
       <resource>
         <directory>resources/filtered</directory>
         <filtering>true</filtering>
+      </resource>
+      <resource>
+        <directory>src</directory>
       </resource>
     </resources>
     <testResources>
