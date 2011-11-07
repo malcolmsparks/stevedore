@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.clojars.malcolmsparks</groupId>
   <artifactId>stevedore</artifactId>
-  <version>0.7.1</version>
+  <version>0.7.2</version>
   <packaging>jar</packaging>
   <name>stevedore</name>
   <description>
@@ -54,7 +54,7 @@
     <dependency>
       <groupId>slingshot</groupId>
       <artifactId>slingshot</artifactId>
-      <version>0.8.1</version>
+      <version>0.8.0</version>
     </dependency>
   </dependencies>
 
